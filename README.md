@@ -1,4 +1,4 @@
-### Hey! I'm Leo, welcome to my homepage!
+### Hello! I'm Leo, feel free to contact me :D
 
 
 
