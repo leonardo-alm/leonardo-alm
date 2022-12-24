@@ -10,20 +10,20 @@
   <a href="mailto:leonardo.olv94@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-</div>
 
-<div id="header" align="center">
+
+
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500"/>
-</div>
+
 
 ---
-<div align="center">
+
 ### :man_technologist: About Me :
 
 I am a Full Stack Developer from Brazil <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-</div>
+
 ---
-<div align="center">
+
 ### :hammer_and_wrench: Languages and Tools :
 
 
