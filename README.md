@@ -1,8 +1,8 @@
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/leonardo-almeida-187588148/">
+  <a href="https://www.linkedin.com/in/leonardo-almeida-187588148/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="mailto:leonardo.olv94@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
