@@ -19,9 +19,8 @@
 
 ### :man_technologist: About Me :
 
-I am a Full Stack Developer from Brazil <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I'm a Full Stack Developer from Brazil <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
----
 
 ### :hammer_and_wrench: Languages and Tools :
 
